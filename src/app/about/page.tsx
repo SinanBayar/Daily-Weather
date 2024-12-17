@@ -1,7 +1,7 @@
 export default function About() {
     return (
       <div>
-        <h1>About33343qwxadwadwswsssswqd443srrsdfdsfwsdasdfsfwdadawdss343434432</h1>
+        <h1>fix</h1>
       </div>
     );
   }
