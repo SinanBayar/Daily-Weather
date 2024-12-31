@@ -1,7 +1,7 @@
 export default function About() {
     return (
       <div>
-        <h1>fixError222</h1>
+        <h1>Error!</h1>
       </div>
     );
   }
